@@ -1,0 +1,8 @@
+.heading {
+    font-size: 100px;
+    /* 대문자로 바꾸기 */
+    text-transform: uppercase;
+    color: gold;
+    /* 좌에서우 상에서하 퍼짐 색깔  */
+    text-shadow: 5px 5px 0 dodgerblue, 10px 10px 0 #90c8ff;
+}

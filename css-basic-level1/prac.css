@@ -1,0 +1,7 @@
+
+.heading {
+    border: 1px solid red;
+    width: 300px;
+    text-align: center;
+    margin: 50px 100px 200px 300px;  /*  상 우 하 좌 */
+}
